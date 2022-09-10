@@ -1,0 +1,9 @@
+.DS_Store
+*/.DS_Store
+pyvenv.cfg
+.venv
+.ipynb_checkpoints
+.ipynb_checkpoints/
+/Scripts/
+/Lib/
+/share
